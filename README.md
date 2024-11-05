@@ -1,4 +1,5 @@
 ## 👋 This is @ProgramLpw!
+welcome to my profile!
 
 [![X (Twitter)](https://img.shields.io/badge/-__PowerLee__-black?labelColor=black&logo=x&logoColor=white&style=flat-square)](https://x.com/_PowerLee_)
 [![WeChat](https://img.shields.io/badge/-__PowerLee__-black?labelColor=black&logo=wechat&logoColor=white&style=flat-square)](./)
@@ -9,14 +10,14 @@
 ### ⚒ Skills
 🥪 **Front End** / 🥗 **Backend** / 🕷 **Spiders** / 🍁 **Quantization** / 💻 **DevOps** / 🍊 **Network Security** / 🍌 **Web2 & Web3**
 
-### 🔥 Achievement
 
-### 🍉 Tech Stack
+### 🌳 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,python,bash,powershell,solidity,nodejs,html,css,js,ts,vue,fastapi)](https://skillicons.dev)
+
 
 ### 🔨 Tools I Use
 [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb,postgresql,redis,anaconda,docker,kubernetes,nginx,npm,pnpm,yarn,vite,vitest,webpack,git,github,gitlab,githubactions,jenkins,windows,linux,ubuntu,arch,redhat,vscode,vim)](https://skillicons.dev)
 
-### 🍏 Contribution
-
-### 🙌 Relation Ship
+<!-- ### 🔥 Achievement -->
+<!-- ### 🍏 Contribution -->
+[More about me →](https://programlpw.github.io/about/)
