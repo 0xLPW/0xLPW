@@ -1,5 +1,4 @@
 ## 👋 This is @ProgramLpw!
-welcome to my profile!
 
 [![X (Twitter)](https://img.shields.io/badge/-__PowerLee__-black?labelColor=black&logo=x&logoColor=white&style=flat-square)](https://x.com/_PowerLee_)
 [![WeChat](https://img.shields.io/badge/-__PowerLee__-black?labelColor=black&logo=wechat&logoColor=white&style=flat-square)](./)
