@@ -19,4 +19,4 @@
 
 <!-- ### 🔥 Achievement -->
 <!-- ### 🍏 Contribution -->
-[More about me →](https://programlpw.github.io/about/)
+[More about me →](https://programlpw.github.io)
