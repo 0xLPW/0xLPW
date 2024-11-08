@@ -15,7 +15,7 @@
 
 
 ### 🔨 Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb,postgresql,redis,anaconda,docker,kubernetes,nginx,npm,pnpm,yarn,vite,vitest,webpack,git,github,gitlab,githubactions,jenkins,windows,linux,ubuntu,arch,redhat,vscode,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb,postgresql,redis,anaconda,docker,kubernetes,nginx,npm,pnpm,yarn,vite,vitest,webpack,git,github,gitlab,githubactions,jenkins,windows,linux,ubuntu,arch,redhat,kali,vscode,vim)](https://skillicons.dev)
 
 <!-- ### 🔥 Achievement -->
 <!-- ### 🍏 Contribution -->
