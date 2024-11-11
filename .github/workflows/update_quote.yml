@@ -28,9 +28,15 @@ jobs:
         run: |
           sed -i.bak "/https:\/\/quotes-github-readme.vercel.app\/api\?/s|quote=[^&]*|quote=${{ env.QUOTE }}|; s|author=[^)]*|author=${{ env.AUTHOR }}|" README.md
 
+      - name: Debug variables
+        run: |
+          echo "QUOTE: $QUOTE"
+          echo "AUTHOR: $AUTHOR"
+
       - name: Commit changes
         run: |
           git config --local user.name "GitHub Action"
           git config --local user.email "action@github.com"
-          git commit -am "Update quote and author in README.md"
+          git add README.md README.md.bak
+          git commit -m "Update quote and author in README.md" || echo "No changes to commit"
           git push
