@@ -36,6 +36,10 @@ jobs:
           echo "AUTHOR: $AUTHOR"
           git diff --exit-code || echo "Changes detected, proceeding with commit."
 
+      - name: Pull latest changes
+        run: |
+          git pull --rebase origin main || echo "No changes to pull"
+
       - name: Commit changes with token
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
