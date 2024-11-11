@@ -44,4 +44,5 @@ jobs:
           git config --local user.email "action@github.com"
           git add README.md README.md.bak
           git commit -m "Update quote and author in README.md" || echo "No changes to commit"
+          git remote -v
           git push
