@@ -1,7 +1,7 @@
 # 👋 This is @ProgramLpw!
 [![X (Twitter)](https://img.shields.io/badge/-__PowerLee__-black?labelColor=black&logo=x&logoColor=white&style=flat-square)](https://x.com/_PowerLee_)
 [![WeChat](https://img.shields.io/badge/-__PowerLee__-black?labelColor=black&logo=wechat&logoColor=white&style=flat-square)](./)
-[![email](https://img.shields.io/badge/-sunk1ng@foxmail.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:sunk1ng@foxmail.com)
+[![Email](https://img.shields.io/badge/-sunk1ng@foxmail.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:sunk1ng@foxmail.com)
 
 ## / Rookie Programmer 🐦 / Blockchain Enthusiast 👨‍💻 / Open Source Enthusiast ❤ / A boy born in 1999 🙋‍♂️ 
 
@@ -13,7 +13,7 @@
 
 
 ### 🔥 Achievement
-![ stats](https://github-readme-stats.vercel.app/api?username=ProgramLpw&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgramLpw&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramLpw&layout=compact)
 
 ### 🌈 Fun Fact
