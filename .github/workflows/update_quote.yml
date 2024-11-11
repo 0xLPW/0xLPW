@@ -7,14 +7,19 @@ on:
       - '.github/workflows/**'
   schedule:
     - cron: '0 */4 * * *'  # 每4小时执行一次，可以根据需要调整
-  workflow_dispatch: # 允许手动触发
+
+env:
+  TZ: Asia/Shanghai
+
+permissions:
+  contents: read
 
 jobs:
   update-quote:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Get a random quote
         run: |
