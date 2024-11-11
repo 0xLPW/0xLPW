@@ -1,6 +1,10 @@
 name: Update Daily Quote
 
 on:
+  push:
+    branches: [ "main" ]
+    paths:
+      - '.github/workflows/**'
   schedule:
     - cron: '0 */4 * * *'  # 每4小时执行一次，可以根据需要调整
   workflow_dispatch: # 允许手动触发
