@@ -21,4 +21,4 @@
 <!-- ## 🍏 Contribution -->
 
 ### 🌈 Fun Fact
-[![More about me →](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=横眉冷对千夫指，俯首甘为孺子牛。&author=鲁迅)](https://programlpw.github.io)
+[![More about me →](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=&author=)](https://programlpw.github.io)
