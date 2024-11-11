@@ -37,18 +37,11 @@ jobs:
         run: |
           echo "QUOTE: $QUOTE"
           echo "AUTHOR: $AUTHOR"
-  
-      - name: Debug variables
-        run: |
-          echo "QUOTE: $QUOTE"
-          echo "AUTHOR: $AUTHOR"
 
       - name: Commit changes
         run: |
           git config --local user.name "GitHub Action"
           git config --local user.email "action@github.com"
-          git add README.md README.md.bak
-          git commit -m "Update quote and author in README.md" || echo "No changes to commit"
           git add README.md README.md.bak
           git commit -m "Update quote and author in README.md" || echo "No changes to commit"
           git push
