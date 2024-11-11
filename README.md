@@ -7,7 +7,7 @@
 
 ### ⚒ Skills
 🥪 **Full Stack Developer** / 🕷 **Spiders** / 🍁 **Quantization** / 💻 **DevOps** / 🍊 **Network Security** / 🍌 **Web2 & Web3**
-![My Skills](https://skillicons.dev/icons?i=c,python,bash,powershell,solidity,nodejs,html,css,js,ts,vue,fastapi,sqlite,mysql,mongodb,postgresql,redis,anaconda,docker,kubernetes,nginx,npm,pnpm,yarn,vite,vitest,webpack,git,github,gitlab,githubactions,jenkins,windows,linux,ubuntu,arch,redhat,kali,vscode,vim)
+![My Skills](https://skillicons.dev/icons?i=c,python,bash,powershell,solidity,nodejs,html,css,js,ts,vue,fastapi,docker,kubernetes,kali)
 
 ### 🔥 Achievement
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramLpw&hide=handlebars&langs_count=8&layout=compact&exclude_repo=blog,vuepress-theme-vdoing,hexo,hexo-theme-next,images,jack&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
