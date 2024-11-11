@@ -7,7 +7,7 @@
 / Rookie Programmer 🐦 / Blockchain Enthusiast 👨‍💻 / Open Source Enthusiast ❤ / A boy born in 1999 🙋‍♂️ 
 
 ### ⚒ Skills
-🥪 **Front End** / 🥗 **Backend** / 🕷 **Spiders** / 🍁 **Quantization** / 💻 **DevOps** / 🍊 **Network Security** / 🍌 **Web2 & Web3**
+🥪 **Full Stack Developer** / 🕷 **Spiders** / 🍁 **Quantization** / 💻 **DevOps** / 🍊 **Network Security** / 🍌 **Web2 & Web3**
 
 
 ### 🌳 Tech Stack
