@@ -10,8 +10,8 @@
 ![My Skills](https://skillicons.dev/icons?i=c,python,bash,powershell,solidity,nodejs,html,css,js,ts,vue,fastapi,docker,kubernetes,kali)
 
 ### 🔥 Achievement
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramLpw&hide=handlebars&langs_count=8&layout=compact&exclude_repo=blog,vuepress-theme-vdoing,hexo,hexo-theme-next,images,jack&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgramLpw&show_icons=true&&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xiPower&hide=handlebars&langs_count=8&layout=compact&exclude_repo=blog,vuepress-theme-vdoing,hexo,hexo-theme-next,images,jack&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xiPower&show_icons=true&&theme=radical&layout=compact)
 <!-- <p>
   <img
   width="334"
